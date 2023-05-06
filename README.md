@@ -9,9 +9,9 @@ Web developer and designer for 4 years, I'm listening to you at all times. In co
 #### Im'm loving :heart:
 - Django / Drf
 - Postgres
-- Nuxt / Vuejs
+- Nuxt / Vuejs / React / Vite
 - Docker / Kubernetes
-- Jest
+- Jest / Vitests
 - Nginx
 - Unix
 - C / C++ / Rust
