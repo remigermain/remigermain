@@ -1,8 +1,9 @@
-Hey im' Rémi ! Working around the world :airplane:
+Hey im' Rémi ! 
+Developer Full-Stack & Designer for 5+ years  Working around the world :airplane:
 
- Developer Full-Stack & Designer for 5+ years, I'm listening to you at all times. In constant training I am up to date in all the latest technologies to offer them to my customers.
+I'm listening to you at all times. In constant training I am up to date in all the latest technologies to offer them to my customers.
 
-Im'm loving ❤️
+Im' loving ❤️
 - Linux, Unix
 - Git, Bash
 - Docker, Docker-compose, Kubernetes
