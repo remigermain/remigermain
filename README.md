@@ -1,3 +1,5 @@
+[![Rémi Germain profile views](https://u8views.com/api/v1/github/profiles/66946113/views/day-week-month-total-count.svg)](https://u8views.com/github/remigermain)
+
 Hey im' Rémi ! 
 Developer Full-Stack & Designer for 5+ years  Working around the world :airplane:
 
